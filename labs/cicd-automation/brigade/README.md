@@ -75,7 +75,7 @@ Brigade uses projects to define the configuration for pipelines. Brigade Project
 
 1. Create a brigade project YAML file.
 
-    * Create a file called ```brig-proj-hackfest.yaml```  Keep this file local on the cloud shell. This is a sensitive file and should not be pushed to Github.
+    * Create a file called ```brig-proj-hackfest.yaml```  Keep this file local on the cloud shell. This is a sensitive file and should not be pushed to Github.  Also NOTE yaml files must use SPACES (2 or 4) and not TABS.
 
         > Note: In the latest Azure Cloud Shell, there is a built-in editor to allow easy file editing without leaving the shell.
 
